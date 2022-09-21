@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltimateBahamutCounter", "UltimateBahamutCount\UltimateBahamutCounter.csproj", "{B8B19A2C-AEC9-4F47-978E-AC375E9893ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B19A2C-AEC9-4F47-978E-AC375E9893ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B19A2C-AEC9-4F47-978E-AC375E9893ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B19A2C-AEC9-4F47-978E-AC375E9893ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B19A2C-AEC9-4F47-978E-AC375E9893ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827FB440-15AE-4B54-8BA8-7C11B7A697A1}
+	EndGlobalSection
+EndGlobal

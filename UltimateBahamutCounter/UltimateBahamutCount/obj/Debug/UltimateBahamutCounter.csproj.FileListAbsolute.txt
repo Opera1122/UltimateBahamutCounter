@@ -1,0 +1,17 @@
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.AssemblyReference.cache
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.Form1.resources
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.Properties.Resources.resources
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.GenerateResource.cache
+C:\Users\gl003\source\repos\UltimateBahamutCount\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.CoreCompileInputs.cache
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.AssemblyReference.cache
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.SuggestedBindingRedirects.cache
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.Properties.Resources.resources
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.GenerateResource.cache
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.csproj.CoreCompileInputs.cache
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.exe
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.pdb
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\bin\Debug\UltimateBahamutCounter.exe.config
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\bin\Debug\UltimateBahamutCounter.exe
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\bin\Debug\UltimateBahamutCounter.pdb
+C:\Users\gl003\source\repos\UltimateBahamutCounter\UltimateBahamutCount\obj\Debug\UltimateBahamutCounter.Form1.resources
